@@ -21,6 +21,8 @@ var defaults = {
   link: children,
   linkReference: children,
 
+  math: empty,
+  inlineMath: empty,
   code: empty,
   horizontalRule: empty,
   thematicBreak: empty,
